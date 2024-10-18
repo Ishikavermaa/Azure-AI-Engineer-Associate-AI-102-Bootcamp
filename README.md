@@ -12,5 +12,5 @@ The session proceeded with a demonstration on provisioning Azure AI services res
 The session also featured a live demo on creating a Container Instance in Azure. The speaker demonstrated how to deploy containerized applications directly from the Azure portal, walking through steps such as specifying the container image, configuring resource allocations, and setting networking options. This demo showcased the simplicity of running containers in a scalable and managed environment, with minimal infrastructure management. Attendees learned how container instances can be a powerful tool for running lightweight, isolated workloads in the cloud.
 Additionally, the session included a demonstration on cost prediction for Azure AI services. The speaker showcased how to estimate the cost of deploying and running AI services using Azure's built-in cost management tools. By adjusting variables such as resource type, region, and usage patterns, attendees learned how to forecast expenses and optimize their budgets. The demo provided practical insights into controlling cloud costs while maintaining efficient AI operations, helping developers plan and manage resources effectively.
 ![image](https://github.com/user-attachments/assets/c414af9f-6b75-4996-900d-18397ee189e6)
-
+Stay tuned for Day-2 of the AI-102 Bootcamp, where we’ll explore more advanced Azure AI services.
 
