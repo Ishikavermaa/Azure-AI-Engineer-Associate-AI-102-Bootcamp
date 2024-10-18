@@ -2,6 +2,8 @@
 Bootcamp Session: AI-102 - Get Started with Azure AI Services
 🎓 Speaker: Saurav Raghuvanshi (Azure PaaS Engineer @ Microsoft)
 🗓️ Date: 13th October 2024
+
+
 The session introduced Azure AI Services, emphasizing how Artificial Intelligence (AI) enables machines to mimic human-like capabilities such as visual perception, speech recognition, decision-making, and text generation. It explored AI's evolution, starting from traditional AI to more specialized fields like Machine Learning and Deep Learning. A key focus was on Generative AI, which can create new content, including text, images, and audio, based on given prompts. The historical timeline covered milestones from 1956 to the latest advancements in 2021. This insightful session demonstrated how Azure AI can be leveraged for real-world applications.
 ![image](https://github.com/user-attachments/assets/e9f48dfd-b20c-4351-aea6-ce2650e1722f)
 The session also highlighted the importance of Responsible AI and Ethics in developing and deploying AI technologies. Key principles include fairness, ensuring AI treats all users equally; reliability and safety, ensuring systems perform as expected; and maintaining privacy and security of data. Emphasizing inclusiveness, transparency, and accountability were also critical points, ensuring that AI systems are accessible and understandable to all, with clear responsibility for outcomes. These guidelines ensure AI development aligns with ethical standards to build trust in its usage.
